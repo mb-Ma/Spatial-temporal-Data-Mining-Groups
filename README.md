@@ -1,22 +1,34 @@
 # Introduction
-This repository records labs\groups\researchers of Spatial-temporal Data Minging with AI. Welcome anyone to supplement.
+This repository records labs\groups\researchers of Spatial-temporal Data Minging. Welcome anyone to supplement.
 
-(**It is worth noting that sorting is meaningless before and after**).
+**It is worth noting that sorting is meaningless before and after**.
 
-# Labs
-* JD Intelligent Cities Research, JD.(京东智能城市研究院)
-* AI ,Southwest Jiaotong University.(人工智能研究院)
-* SpaceTime Lab. ()
+Many thanks to collaborator Peng Xie
+
+# Labs (工业|高校，国内|国外)
+* [JD Intelligent Cities Research](https://icity.jd.com/research/cn), JD.(京东智能城市研究院)
+* [DiDi research](http://research.xiaojukeji.com/index.html) (滴滴研究院)
+* [城市大脑实验室](https://damo.alibaba.com/labs/city-brain)，达摩院
+* [Big Data Lab Baidu](http://research.baidu.com/Research_Areas/index-view?id=55) (百度大数据实验室)
+
+* 清华大学
+* 北京大学
 * 北航
 * 西交
 * 中科院
-* 上交
+* 香港科技大学
+* 上海交大
+* Insitute of Artificial Intelligence, Southwest Jiaotong University.(西南交大人工智能研究院)
+* Data Management @Nanyang Tech, School of Comp Sci and Engineering, Nanyang Technological University (新加坡南阳理工)
+* [SpaceTimeLab, Department of Civil, Environmental and Geomatic Engineering, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab)
 
-|Researcher| Affiliated unit|Interests|Homepage|
+|Researcher| Affiliation |Interests|Homepage|
 |----------|----------------|----------|-------|
+|Minyi Guo(过敏意)|(上海交大)|Parallel and Distributed Processing; Parallelizing Compilers; Cloud Computing; Pervasive Computing; Software Engineering, Embedded Systems; Green Computing; Wireless Sensor Networks.|https://cs.sjtu.edu.cn/~guo-my/|
 |Yu Zheng (郑宇)|JD Intelligent Cities Business Unit|Urban Computing, Trajectory Data Mining & Computing with Spatial Trajectories, Cross-Domain Knowledge Fusion, Location-Based Social Networks|http://urban-computing.com/yuzheng|
-|Junbo Zhang (张钧波)|JD Intelligent Cities Research|Spatio-Temporal AI, Urban Computing, Spatio-Temporal Data Mining, Federated Learning|https://zhangjunbo.org/|
 |Tianrui Li (李天瑞)|Soutwest Jiaotong University|Data Mining and Knowledge Discovery, Cloud Computing and Big Data, Artificial Intelligence, Granular Computing and Rough Sets|https://faculty.swjtu.edu.cn/litianrui/en/index.htm|
+|Junbo Zhang (张钧波)|JD Intelligent Cities Research|Spatio-Temporal AI, Urban Computing, Spatio-Temporal Data Mining, Federated Learning|https://zhangjunbo.org/|
+|Jie Bao (鲍捷)||||
 |Hui Xiong (熊晖)|Management Science and Information Systems Department Rutgers, the State University of New Jersey|data mining algorithms from a data perspective.|http://datamining.rutgers.edu/|
 |Yanjie Fu (傅衍杰)|Learning Science Cluster, Department of Computer Science, College of Engineering and Computer Science, University of Central Florida|spatial-temporal graph learning, interactive reinforcement learning, deep outlier detection.|https://yanjiefu.com/|
 |Deyang Wang (汪澎洋)|State Key Laboratory of Internet of Things for Smart City, Department of Computer and Information Science, Faculty of Science and Technology, University of Macau|Geospatial-temporal data modeling|https://www.pengyangwang.com/|
@@ -33,6 +45,7 @@ This repository records labs\groups\researchers of Spatial-temporal Data Minging
 |Yu Liu (刘瑜)|时空大数据与社会感知研究组||-|
 |Yanhua Li|||https://users.wpi.edu/~yli15/index.html|
 |Hao Peng||||
+|Zenghui Li|||https://faculty.ist.psu.edu/jessieli/site/index.html|
 |Huaiyu Wan (万怀宇)||||
 |Senzhang Wang (王森章)||||
 |Lingbo Liu (刘凌波)||||
